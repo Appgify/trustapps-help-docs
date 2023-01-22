@@ -8,7 +8,7 @@ coverY: 0
 ![Vous pouvez appeler cette page comme vous le souhaitez: Nos avis clients, Nos clients satisfaits, etc...](<../.gitbook/assets/Capture d’écran 2021-10-17 à 17.20.02.png>)
 
 1.  ```
-    Add a customer reviews page manually:
+    Add a customer reviews page manuall:
     ```
 
     a. Go to your Shopify menu and click > online store > pages.
