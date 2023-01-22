@@ -8,7 +8,7 @@ coverY: 0
 ![Vous pouvez appeler cette page comme vous le souhaitez: Nos avis clients, Nos clients satisfaits, etc...](<../.gitbook/assets/Capture d’écran 2021-10-17 à 17.20.02.png>)
 
 1.  ```
-    Add a customer reviews page manuall:
+    Add a customer reviews page manually:
     ```
 
     a. Go to your Shopify menu and click > online store > pages.
@@ -25,6 +25,6 @@ coverY: 0
 <div id="trustreviews" data-trustreviews-aggregate=""></div>
 ```
 
-&#x20;2\. Paste the line of code and click ''Save''.
+2\. Paste the line of code and click ''Save''.
 
-&#x20;3\. Add this new page in the menu of your choice (header or footer) from the                        ''navigation'' menu.
+3\. Add this new page in the menu of your choice (header or footer) from the ''navigation'' menu.
