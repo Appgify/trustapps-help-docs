@@ -5,7 +5,7 @@ coverY: 0
 
 # Add a page dedicated to reviews
 
-![Vous pouvez appeler cette page comme vous le souhaitez: Nos avis clients, Nos clients satisfaits, etc...](<../.gitbook/assets/Capture d’écran 2021-10-17 à 17.20.02.png>)
+![Vous pouvez appeler cette page comme vous le souhaitez: Nos avis clients, Nos clients satisfaits, etc...](<../.gitbook/assets/Capture d’écran 2021-10-17 à 17.20.02.png>)
 
 1.  ```
     Add a customer reviews page manually:
@@ -19,7 +19,7 @@ coverY: 0
 
     d. Click the < > button and add the line of code below:
 
-![Ajoutez la ligne de code ci-dessous:](<../.gitbook/assets/Capture d’écran 2021-10-16 à 21.58.38.png>)
+![Ajoutez la ligne de code ci-dessous:](<../.gitbook/assets/Capture d’écran 2021-10-16 à 21.58.38.png>)
 
 ```
 <div id="trustreviews" data-trustreviews-aggregate=""></div>

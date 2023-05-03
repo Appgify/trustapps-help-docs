@@ -42,7 +42,7 @@ So follow the 2.0 theme steps if necessary.
 Here is an example on the Debut theme:
 ```
 
-![](<../.gitbook/assets/Afficher les étoiles Trustreviews.PNG>)
+![](<../.gitbook/assets/Afficher les étoiles Trustreviews.PNG>)
 
-![](<../.gitbook/assets/affichage d'étoiles trustreviews thèmes classiques.png>)
+![](<../.gitbook/assets/affichage d'étoiles trustreviews thèmes classiques.png>)
 

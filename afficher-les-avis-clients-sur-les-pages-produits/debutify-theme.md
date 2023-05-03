@@ -8,12 +8,12 @@ coverY: 0
 
 # Debutify Theme
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.20.00.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.20.00.png>)
 
 1. Go to your Shopify Themes menu. (online store -> Themes)
 2. Click on the "Actions" menu, then select "Edit Code".
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.35.50.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.35.50.png>)
 
 1. In the code search bar, search for ''review'' and 2 titles should appear below the ''SNIPPETS'' section (see screenshot below)
 2. To display customer reviews on your product page, go to ''review-widget.liquid''.&#x20;
@@ -37,4 +37,4 @@ Last step - verification
 {{ shop.metafields.trustreviews["global_html_body"] }}
 ```
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.55.25 (1).png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.55.25 (1).png>)

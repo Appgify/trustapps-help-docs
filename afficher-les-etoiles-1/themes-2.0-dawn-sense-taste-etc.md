@@ -25,9 +25,9 @@ Add stars to my product pages. Themes 2.0: #
   below your product title
   ```
 
-![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 15.59.21.png>)
+![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 15.59.21.png>)
 
-![Lorsque vous cliquez sur ''ajouter un bloc'', sélectionnez l'application Trustreviews qui se trouve en bas. Choisissez le widget des étoiles. (Star Ratings)](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.01.08.png>)
+![Lorsque vous cliquez sur ''ajouter un bloc'', sélectionnez l'application Trustreviews qui se trouve en bas. Choisissez le widget des étoiles. (Star Ratings)](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.01.08.png>)
 
 <pre><code>2nd method: <a data-footnote-ref href="#user-content-fn-1">#</a>
 </code></pre>
@@ -59,7 +59,7 @@ adding the code manually. (See below)
 <a href="#trustreviewsFrame"><div class="trustreviews-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.trustreviews.avg_rating }}" data-raters="{{ product.metafields.trustreviews.num_reviews }}"></div></a>
 ```
 
-![ ](<../.gitbook/assets/Capture d’écran 2021-11-10 à 20.04.42.png>)
+![ ](<../.gitbook/assets/Capture d’écran 2021-11-10 à 20.04.42.png>)
 
 ```
 Stars home page:

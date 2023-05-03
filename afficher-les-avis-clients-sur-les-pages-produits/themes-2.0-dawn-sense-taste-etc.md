@@ -15,9 +15,9 @@ coverY: 0
 
     Go to the bottom and click on ''Add a section'' and choose the ''Trustreviews'' application (See 2nd photo). Move the Trustreviews customer reviews block wherever you want. (Reviews Widget)
 
-![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.44.17.png>)
+![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.44.17.png>)
 
-![When you click on ''add block'', select the Trustreviews app which is at the bottom. Choose the reviews widget. (Reviews widget)](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.01.08.png>)
+![When you click on ''add block'', select the Trustreviews app which is at the bottom. Choose the reviews widget. (Reviews widget)](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.01.08.png>)
 
 ## 2nd method:&#x20;
 
@@ -35,4 +35,4 @@ You can also add reviews using the manual method. This consists of adding the co
 </div>
 ```
 
-![](<../.gitbook/assets/Capture d’écran 2021-11-10 à 19.59.49.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-11-10 à 19.59.49.png>)

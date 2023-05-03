@@ -28,4 +28,4 @@ Show customer reviews on my homepage:
 
 6\. Paste the line of code below "content-for-index". As in the screenshot below:
 
-![](<../.gitbook/assets/Capture d’écran 2021-11-01 à 20.30.57.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-11-01 à 20.30.57.png>)

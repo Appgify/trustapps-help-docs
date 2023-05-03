@@ -10,6 +10,6 @@ coverY: 0
 
 3\. The **product\_handle** is visible on your website page URL. (See below)
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-20 à 23.59.23.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-20 à 23.59.23.png>)
 
 4\. Paste the **product\_handle** of the product into the **product\_handle** column of the CSV file you want to import. Be careful, if you import reviews of several different products in the same CSV file, each product has its own **product\_handle.**

@@ -7,14 +7,14 @@ coverY: 0
 
 # Debutify Theme
 
-![Suivez-les étapes ci-dessous pour afficher les étoiles en dessous du titre de votre produit sur le thème DEBUTIFY.](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.48.04.png>)
+![Suivez-les étapes ci-dessous pour afficher les étoiles en dessous du titre de votre produit sur le thème DEBUTIFY.](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.48.04.png>)
 
 1. ```
    Go to your Shopify Themes menu. (online store -> Themes)
    ```
 2. Click on the "Actions" menu, then select "Edit Code".
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.35.50.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 16.35.50.png>)
 
 1. ```
    In the code search bar, search for ''review'' and 2 titles should appear
@@ -64,4 +64,4 @@ Last step - verification
 {{ shop.metafields.trustreviews["global_html_body"] }}
 ```
 
-![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.55.25.png>)
+![](<../.gitbook/assets/Capture d’écran 2021-10-17 à 15.55.25.png>)
