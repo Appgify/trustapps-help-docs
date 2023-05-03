@@ -34,6 +34,10 @@
 * [How do I find a product ID?](trouver-un-id-produit-product-id/comment-trouver-lid-de-mon-produit.md)
 * [How to find the ''product\_handle'' of a product?](trouver-un-id-produit-product-id/how-to-find-the-product\_handle-of-a-product.md)
 
+## Integrations
+
+* [How to send push notification to collect reviews?](integrations/send-review-request-via-push-notifications.md)
+
 ## How do I contact Trustreviews Support? <a href="#comment-contacter-le-support-trustreviews" id="comment-contacter-le-support-trustreviews"></a>
 
 * [Contact Support](comment-contacter-le-support-trustreviews/contactez-notre-support.md)
