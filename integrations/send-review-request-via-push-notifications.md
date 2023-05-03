@@ -6,8 +6,10 @@ Push notifications are a powerful way to keep your customers engaged with your b
 
 ## Step 1: Install the PushOwl Application,
 
+#### PushOwl URL
+
 ```
-        PushOwl URL: https://apps.shopify.com/pushowl
+https://apps.shopify.com/pushowl
 ```
 
 ## Step 2: Connect Your TrustReviews Account
