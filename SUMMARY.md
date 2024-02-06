@@ -17,6 +17,9 @@
 * [Classic themes](afficher-les-etoiles-1/afficher-les-etoiles-integration-manuelle.md)
 * [Debutify Theme](afficher-les-etoiles-1/debutify-theme.md)
 
+## Add Section in theme manually
+* [Learn how to add section in theme manually](add-a-section-in-theme-code/add-a-section-in-theme-code.md)
+
 ## ADD REVIEWS ON THE HOME PAGE
 
 * [Add reviews - home page](add-reviews-on-the-home-page/add-reviews-home-page.md)
