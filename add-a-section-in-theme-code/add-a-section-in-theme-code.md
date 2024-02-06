@@ -9,7 +9,8 @@ coverY: 0
 2. Create a new liquid file in 'sections' folder.
 3. Copy the following code:
     
-```<div id="trustreviews" class="page-width" data-product-id="{{ product.id }}">
+```
+<div id="trustreviews" class="page-width" data-product-id="{{ product.id }}">
     {{ product.metafields.trustreviews.iframe }}
 </div>
 
