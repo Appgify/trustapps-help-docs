@@ -25,19 +25,12 @@ layout:
 ### Add stars to my product pages. (For themes 2.0)
 
 * Go to online store -> customize
-* ```
-  Go to online store -> customize.
-  ```
-* ```
-  Choose the relevant product page.
-  ```
-* ```
-  Follow the steps on the screenshot below:
+* Choose the relevant product page.
+* Follow the steps on the screenshot below:
 
   In your product information, click on ''Add a block'' and choose the
   ''Trustreviews'' application (See 2nd photo). Move the Trustreviews block
   below your product title
-  ```
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 15.59.21.png>)
 
