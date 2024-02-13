@@ -22,10 +22,9 @@ layout:
 
 # Add stars widget to theme
 
-```
-Add stars to my product pages. Themes 2.0: #
-```
+### Add stars to my product pages. (For themes 2.0)
 
+* Go to online store -> customize
 * ```
   Go to online store -> customize.
   ```
@@ -42,14 +41,7 @@ Add stars to my product pages. Themes 2.0: #
 
 ![](<../.gitbook/assets/Capture d’écran 2022-06-30 à 15.59.21.png>)
 
-![Lorsque vous cliquez sur ''ajouter un bloc'', sélectionnez l'application Trustreviews qui se trouve en bas. Choisissez le widget des étoiles. (Star Ratings)](<../.gitbook/assets/Capture d’écran 2022-06-30 à 16.01.08.png>)
-
-<pre><code>2nd method: <a data-footnote-ref href="#user-content-fn-1">#</a>
-</code></pre>
-
-```
-Stars home page:
-```
+### Show stars on home page
 
 If you want to display the stars on a product on your home page, the same method applies but the code is different. Copy/paste and use the code below:
 
@@ -60,5 +52,3 @@ If you want to display the stars on a product on your home page, the same method
 
 <a href="#trustreviewsFrame"><div class="trustreviews-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.trustreviews.avg_rating }}" data-raters="{{ product.metafields.trustreviews.num_reviews }}"></div></a>
 ```
-
-[^1]: 
