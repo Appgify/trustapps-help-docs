@@ -9,13 +9,13 @@
 * [classic themes](afficher-les-avis-clients-sur-les-pages-produits/integration-theme-fastlane.md)
 * [Debutify Theme](afficher-les-avis-clients-sur-les-pages-produits/debutify-theme.md)
 
-## Show stars <a href="#afficher-les-etoiles-1" id="afficher-les-etoiles-1"></a>
+## Show stars <a href="#show-stars-on-product-page" id="show-stars-on-product-page"></a>
 
-* [Add stars widget to theme](afficher-les-etoiles-1/themes-2.0-dawn-sense-taste-etc.md)
-* [Synchronize star color](afficher-les-etoiles-1/synchronize-star-color.md)
-* [center the stars](afficher-les-etoiles-1/center-the-stars.md)
-* [Classic themes](afficher-les-etoiles-1/afficher-les-etoiles-integration-manuelle.md)
-* [Debutify Theme](afficher-les-etoiles-1/debutify-theme.md)
+* [Add stars widget to theme](show-stars-on-product-page/themes-2.0-dawn-sense-taste-etc.md)
+* [Synchronize star color](show-stars-on-product-page/synchronize-star-color.md)
+* [center the stars](show-stars-on-product-page/center-the-stars.md)
+* [Classic themes](show-stars-on-product-page/afficher-les-etoiles-integration-manuelle.md)
+* [Debutify Theme](show-stars-on-product-page/debutify-theme.md)
 
 ## Add Section in theme manually
 * [Learn how to add section in theme manually](add-a-section-in-theme-code/add-a-section-in-theme-code.md)
