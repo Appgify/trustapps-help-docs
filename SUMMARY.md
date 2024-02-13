@@ -12,9 +12,9 @@
 ## Show stars <a href="#show-stars-on-product-page" id="show-stars-on-product-page"></a>
 
 * [Add stars widget to theme](show-stars-on-product-page/themes-2.0-dawn-sense-taste-etc.md)
+* [Classic themes](show-stars-on-product-page/afficher-les-etoiles-integration-manuelle.md)
 * [Synchronize star color](show-stars-on-product-page/synchronize-star-color.md)
 * [center the stars](show-stars-on-product-page/center-the-stars.md)
-* [Classic themes](show-stars-on-product-page/afficher-les-etoiles-integration-manuelle.md)
 * [Debutify Theme](show-stars-on-product-page/debutify-theme.md)
 
 ## Add Section in theme manually
