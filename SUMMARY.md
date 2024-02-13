@@ -11,9 +11,9 @@
 
 ## Show stars <a href="#afficher-les-etoiles-1" id="afficher-les-etoiles-1"></a>
 
+* [Themes 2.0 Dawn - Sense - Taste - etc](afficher-les-etoiles-1/themes-2.0-dawn-sense-taste-etc.md)
 * [Synchronize star color](afficher-les-etoiles-1/synchronize-star-color.md)
 * [center the stars](afficher-les-etoiles-1/center-the-stars.md)
-* [Themes 2.0 Dawn - Sense - Taste - etc](afficher-les-etoiles-1/themes-2.0-dawn-sense-taste-etc.md)
 * [Classic themes](afficher-les-etoiles-1/afficher-les-etoiles-integration-manuelle.md)
 * [Debutify Theme](afficher-les-etoiles-1/debutify-theme.md)
 
