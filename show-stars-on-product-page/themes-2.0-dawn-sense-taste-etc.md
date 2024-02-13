@@ -47,35 +47,6 @@ Add stars to my product pages. Themes 2.0: #
 <pre><code>2nd method: <a data-footnote-ref href="#user-content-fn-1">#</a>
 </code></pre>
 
-
-
-```
-You can also add the stars using the manual method. This consists of
-adding the code manually. (See below)
-```
-
-1. ```
-   Go to online store -> customize.
-   ```
-2. ```
-   Choose the default product page.
-   ```
-3.  Follow the steps on the screenshot below:
-
-    ```
-    In your product information, click on ''Add block'' and choose
-    ''Custom liquid''. Move the custom Liquid below your product title.
-    ```
-4. ```
-   Copy the code below and paste it into the custom Liquid. The stars will appear.
-   ```
-
-```
-<a href="#trustreviewsFrame"><div class="trustreviews-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.trustreviews.avg_rating }}" data-raters="{{ product.metafields.trustreviews.num_reviews }}"></div></a>
-```
-
-![ ](<../.gitbook/assets/Capture d’écran 2021-11-10 à 20.04.42.png>)
-
 ```
 Stars home page:
 ```
