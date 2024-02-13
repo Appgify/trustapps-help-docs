@@ -18,7 +18,6 @@
 * [Debutify Theme](show-stars-on-product-page/debutify-theme.md)
 
 ## Add Section in theme manually
-
 * [Learn how to add section in theme manually](add-a-section-in-theme-code/add-a-section-in-theme-code.md)
 
 ## ADD REVIEWS ON THE HOME PAGE
@@ -33,15 +32,15 @@
 
 * [How to take advantage of the new features](synchronize-an-update/how-to-take-advantage-of-the-new-features.md)
 
-## Find a product ID and product handle <a href="#trouver-un-id-produit-product-id" id="trouver-un-id-produit-product-id"></a>
+## Find a product ID and product handle <a href="#find-a-product-id-product-id" id="find-a-product-id-product-id"></a>
 
-* [How do I find a product ID?](trouver-un-id-produit-product-id/how-do-i-find-a-product-id.md)
-* [How to find the ''product\_handle'' of a product?](trouver-un-id-produit-product-id/how-to-find-the-product\_handle-of-a-product.md)
+* [How do I find a product ID?](find-a-product-id-product-id/comment-trouver-lid-de-mon-produit.md)
+* [How to find the ''product\_handle'' of a product?](find-a-product-id-product-id/how-to-find-the-product\_handle-of-a-product.md)
 
 ## Integrations
 
 * [How to send push notification to collect reviews?](integrations/send-review-request-via-push-notifications.md)
 
-## How do I contact Trustreviews Support? <a href="#comment-contacter-le-support-trustreviews" id="comment-contacter-le-support-trustreviews"></a>
+## How do I contact Trustreviews Support? <a href="#how-to-contact-trustreviews-support" id="how-to-contact-trustreviews-support"></a>
 
-* [Contact Support](comment-contacter-le-support-trustreviews/contact-support.md)
+* [Contact Support](how-to-contact-trustreviews-support/contactez-notre-support.md)
