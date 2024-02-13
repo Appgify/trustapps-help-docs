@@ -4,7 +4,7 @@
 
 ## Show customer reviews on product pages <a href="#afficher-les-avis-clients-sur-les-pages-produits" id="afficher-les-avis-clients-sur-les-pages-produits"></a>
 
-* [Themes 2.0 Dawn - Sense - Taste - etc](afficher-les-avis-clients-sur-les-pages-produits/themes-2.0-dawn-sense-taste-etc.md)
+* [Add reviews widget to theme](afficher-les-avis-clients-sur-les-pages-produits/themes-2.0-dawn-sense-taste-etc.md)
 * [Classic themes](afficher-les-avis-clients-sur-les-pages-produits/integration-manuelle.md)
 * [classic themes](afficher-les-avis-clients-sur-les-pages-produits/integration-theme-fastlane.md)
 * [Debutify Theme](afficher-les-avis-clients-sur-les-pages-produits/debutify-theme.md)
