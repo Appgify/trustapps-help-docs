@@ -2,10 +2,25 @@
 description: >-
   If stars are not automatically displayed by clicking on 'integrate
   Trustreviews' in your Trustreviews app settings, please follow these steps:
+cover: ../.gitbook/assets/Untitled (1).jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Themes 2.0 Dawn - Sense - Taste - etc
+# Add stars widget to theme
 
 ```
 Add stars to my product pages. Themes 2.0: #
