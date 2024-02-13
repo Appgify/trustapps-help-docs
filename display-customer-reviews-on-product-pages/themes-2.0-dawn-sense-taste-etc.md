@@ -2,10 +2,25 @@
 description: >-
   If reviews are not automatically displayed by clicking 'integrate
   Trustreviews' in your Trustreviews app settings, please follow these steps:
-coverY: 0
+cover: ../.gitbook/assets/Untitled.jpg
+coverY: 183.41333333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Themes 2.0 Dawn - Sense - Taste - etc
+# Add reviews widget to theme
 
 ## Add customer reviews to my product pages. Themes 2.0:
 
