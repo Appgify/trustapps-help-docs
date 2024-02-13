@@ -6,12 +6,12 @@ description: >-
 
 # FAQ Trustreviews
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="display-customer-reviews-on-product-pages/themes-2.0-dawn-sense-taste-etc.md" %}
+[themes-2.0-dawn-sense-taste-etc.md](display-customer-reviews-on-product-pages/themes-2.0-dawn-sense-taste-etc.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="show-stars-on-product-page/themes-2.0-dawn-sense-taste-etc.md" %}
+[themes-2.0-dawn-sense-taste-etc.md](show-stars-on-product-page/themes-2.0-dawn-sense-taste-etc.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
