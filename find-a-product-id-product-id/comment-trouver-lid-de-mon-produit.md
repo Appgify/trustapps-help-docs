@@ -8,8 +8,6 @@ coverY: 0
 
 2\. Go to the product profile and the product ID can be found in the Url as shown below:
 
-\
-
 
 ![](<../.gitbook/assets/Find product ID.png>)
 
