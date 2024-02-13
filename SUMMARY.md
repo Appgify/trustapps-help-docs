@@ -2,12 +2,12 @@
 
 * [FAQ Trustreviews](README.md)
 
-## Show customer reviews on product pages <a href="#afficher-les-avis-clients-sur-les-pages-produits" id="afficher-les-avis-clients-sur-les-pages-produits"></a>
+## Show customer reviews on product pages <a href="#display-customer-reviews-on-product-pages" id="display-customer-reviews-on-product-pages"></a>
 
-* [Add reviews widget to theme](afficher-les-avis-clients-sur-les-pages-produits/themes-2.0-dawn-sense-taste-etc.md)
-* [Classic themes](afficher-les-avis-clients-sur-les-pages-produits/integration-manuelle.md)
-* [classic themes](afficher-les-avis-clients-sur-les-pages-produits/integration-theme-fastlane.md)
-* [Debutify Theme](afficher-les-avis-clients-sur-les-pages-produits/debutify-theme.md)
+* [Add reviews widget to theme](display-customer-reviews-on-product-pages/themes-2.0-dawn-sense-taste-etc.md)
+* [Classic themes](display-customer-reviews-on-product-pages/integration-manuelle.md)
+* [classic themes](display-customer-reviews-on-product-pages/integration-theme-fastlane.md)
+* [Debutify Theme](display-customer-reviews-on-product-pages/debutify-theme.md)
 
 ## Show stars <a href="#show-stars-on-product-page" id="show-stars-on-product-page"></a>
 
